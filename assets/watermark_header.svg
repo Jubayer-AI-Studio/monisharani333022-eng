@@ -1,0 +1,96 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" height="240">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a12" />
+      <stop offset="50%" stop-color="#0b1120" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+
+    <!-- Subtle Accent Line -->
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0" />
+      <stop offset="25%" stop-color="#0ea5e9" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="1" />
+      <stop offset="75%" stop-color="#818cf8" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Ambient Glow -->
+    <radialGradient id="ambientOrb" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.18" />
+      <stop offset="60%" stop-color="#0f172a" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="purpleOrb" cx="80%" cy="30%" r="40%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.12" />
+      <stop offset="70%" stop-color="#0f172a" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="240" rx="14" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Ambient Light Orbs -->
+  <circle cx="600" cy="90" r="280" fill="url(#ambientOrb)" />
+  <circle cx="950" cy="60" r="220" fill="url(#purpleOrb)" />
+
+  <!-- WATERMARK (জলছাপ) LAYER 1: Subtle Matrix Grid & Dots -->
+  <g opacity="0.04" stroke="#ffffff" stroke-width="1">
+    <line x1="0" y1="48" x2="1200" y2="48" />
+    <line x1="0" y1="96" x2="1200" y2="96" />
+    <line x1="0" y1="144" x2="1200" y2="144" />
+    <line x1="0" y1="192" x2="1200" y2="192" />
+    <line x1="150" y1="0" x2="150" y2="240" />
+    <line x1="300" y1="0" x2="300" y2="240" />
+    <line x1="450" y1="0" x2="450" y2="240" />
+    <line x1="600" y1="0" x2="600" y2="240" />
+    <line x1="750" y1="0" x2="750" y2="240" />
+    <line x1="900" y1="0" x2="900" y2="240" />
+    <line x1="1050" y1="0" x2="1050" y2="240" />
+  </g>
+
+  <!-- WATERMARK (জলছাপ) LAYER 2: Giant Translucent Code Bracket "< / >" on Left -->
+  <g opacity="0.035" fill="#38bdf8">
+    <text x="60" y="170" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="160" font-weight="900">&lt; / &gt;</text>
+  </g>
+
+  <!-- WATERMARK (জলছাপ) LAYER 3: Translucent Neural / AI Nodes Constellation on Right -->
+  <g opacity="0.06" stroke="#38bdf8" stroke-width="1.5" fill="#38bdf8">
+    <!-- Nodes -->
+    <circle cx="980" cy="70" r="4" />
+    <circle cx="1060" cy="50" r="5" />
+    <circle cx="1120" cy="110" r="4" />
+    <circle cx="1040" cy="130" r="6" />
+    <circle cx="960" cy="150" r="4" />
+    <circle cx="1100" cy="180" r="5" />
+    <!-- Connecting lines -->
+    <line x1="980" y1="70" x2="1060" y2="50" />
+    <line x1="1060" y1="50" x2="1120" y2="110" />
+    <line x1="1060" y1="50" x2="1040" y2="130" />
+    <line x1="980" y1="70" x2="1040" y2="130" />
+    <line x1="1040" y1="130" x2="960" y2="150" />
+    <line x1="1040" y1="130" x2="1100" y2="180" />
+    <line x1="1120" y1="110" x2="1100" y2="180" />
+  </g>
+
+  <!-- Status Chip (Top Center) -->
+  <g transform="translate(600, 42)">
+    <rect x="-135" y="-14" width="270" height="28" rx="14" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
+    <circle cx="-112" cy="0" r="4" fill="#10b981" />
+    <text x="-98" y="4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#94a3b8" letter-spacing="1.5">ENGINEER • AI SPECIALIST</text>
+  </g>
+
+  <!-- Main Identity Header -->
+  <text x="600" y="118" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="800" fill="#f8fafc" letter-spacing="-0.5">
+    Jubayer Ahmad
+  </text>
+
+  <!-- Subtitle with Bullet Badges -->
+  <text x="600" y="160" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="500" fill="#94a3b8" letter-spacing="0.5">
+    Full-Stack Cloud Architect &amp; Autonomous AI Systems Engineer
+  </text>
+
+  <!-- Elegant Bottom Hairline Accent -->
+  <rect x="150" y="215" width="900" height="2" rx="1" fill="url(#accentLine)" />
+</svg>

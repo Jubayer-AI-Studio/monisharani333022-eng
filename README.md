@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500" alt="Running Friends Animation" />
+  <img src="assets/watermark_banner.png" width="100%" alt="Jubayer Ahmad - Systems Architect & AI Specialist" />
 </div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
