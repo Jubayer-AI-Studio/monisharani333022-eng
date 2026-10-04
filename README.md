@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,38&height=220&section=header&text=Hi%20there,%20I'm%20Jubayer%20Ahmad%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20AI%20Systems%20%26%20Cloud%20Architect&descFontSize=19&descAlignY=62" width="100%"/>
+  <img src="https://raw.githubusercontent.com/monisharani333022-eng/monisharani333022-eng/main/header.svg" width="100%" alt="Jubayer Ahmad - Header" />
 </div>
 
 <div align="center">
@@ -160,5 +160,5 @@ I am a **Software Engineer & AI Systems Architect** based in **Dhaka, Bangladesh
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,38&height=120&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/monisharani333022-eng/monisharani333022-eng/main/footer.svg" width="100%" alt="Footer" />
 </div>
