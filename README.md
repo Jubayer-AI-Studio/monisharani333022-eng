@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0b0f19,0f172a,0284c7&height=220&section=header&text=Hi%20there,%20I'm%20Jubayer%20Ahmad%20👋&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20AI%20Systems%20%26%20Cloud%20Architect&descFontSize=19&descAlignY=62" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500" alt="Running Friends Animation" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Hi+there,+I'm+Jubayer+Ahmad;Senior+Software+Engineer+%26+AI+Specialist;Building+Enterprise+Next.js+SaaS;Creator+of+NoorHub+%26+Desktop+Jarvis" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=Hi+there,+I'm+Jubayer+Ahmad;Senior+Software+Engineer+%26+AI+Specialist;Building+Enterprise+Next.js+SaaS;Creator+of+NoorHub+%26+Desktop+Jarvis" alt="Typing SVG" />
   </a>
 </div>
 
@@ -155,10 +155,4 @@ I am a **Software Engineer & AI Systems Architect** based in **Dhaka, Bangladesh
   <a href="https://www.facebook.com">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0b0f19,0f172a,0284c7&height=120&section=footer" width="100%"/>
 </div>
