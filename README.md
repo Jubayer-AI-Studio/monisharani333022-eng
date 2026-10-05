@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/jubayer_hero_banner.png" width="100%" alt="Jubayer Ahmad - Full-Stack Software Engineer & AI Systems Architect" />
+  <img src="assets/jubayer_live_banner.gif" width="100%" alt="Jubayer Ahmad - Full-Stack Software Engineer & AI Systems Architect" />
 </div>
 
 <div align="center">
