@@ -1,16 +1,15 @@
 <div align="center">
-  <img src="assets/watermark_banner.png" width="100%" alt="Jubayer Ahmad - Systems Architect & AI Specialist" />
+  <img src="assets/jubayer_hero_banner.png" width="100%" alt="Jubayer Ahmad - Full-Stack Software Engineer & AI Systems Architect" />
 </div>
-
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=Hi+there,+I'm+Jubayer+Ahmad;Senior+Software+Engineer+%26+AI+Specialist;Building+Enterprise+Next.js+SaaS;Creator+of+NoorHub+%26+Desktop+Jarvis" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Hi+there,+I'm+Jubayer+Ahmad;Senior+Full-Stack+Engineer+%26+AI+Architect;Creator+of+NoorHub+SaaS+%26+Desktop+Jarvis;Building+Autonomous+AI+%26+High-Scale+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=monisharani333022-eng&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Jubayer-AI-Studio&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/LOCATION-DHAKA%2C_BANGLADESH-0575E6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
@@ -29,12 +28,24 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineer & AI Systems Architect** based in **Dhaka, Bangladesh 🇧🇩**. I specialize in engineering high-performance modern web platforms, full-stack SaaS applications, autonomous AI assistants, and enterprise workflow automations.
-
-* 🚀 **Full-Stack SaaS Engineering:** Architect of [NoorHub](https://github.com/monisharani333022-eng/NoorHub-Madrasa-Management-SaaS) — an enterprise bilingual management platform featuring 29 completed routes, GIS spatial mapping of Bangladesh, and offline PWA capability.
-* 🤖 **Autonomous AI Systems:** Creator of [Jubayer AI](https://github.com/monisharani333022-eng/Jubayer-Jarvis-AI-Automation) — a 100% hands-free personal desktop assistant with biometric voiceprint verification and real-time vision controls.
-* ⚡ **High-Scale Automation:** Designing resilient bot architectures with anti-detection heuristics, headless automation, and automated video generation engines.
-* 📍 **Contact:** [monisharani333022@gmail.com](mailto:monisharani333022@gmail.com)
+<table>
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <img src="assets/jubayer_developer_card.png" width="100%" alt="Jubayer Ahmad" />
+    </td>
+    <td width="62%" valign="middle">
+      <h3>Jubayer Ahmad</h3>
+      <p><b>Senior Full-Stack Software Engineer & AI Systems Architect</b> based in <b>Dhaka, Bangladesh 🇧🇩</b>.</p>
+      <p>I engineer production-grade enterprise web platforms, complex multi-tenant SaaS applications, autonomous AI assistants, and high-throughput automation engines.</p>
+      <ul>
+        <li>🚀 <b>Full-Stack SaaS Engineering:</b> Architect of <a href="https://github.com/Jubayer-AI-Studio/NoorHub-Madrasa-Management-SaaS">NoorHub</a> — an enterprise bilingual management platform featuring 29 completed routes, Leaflet GIS spatial mapping of Bangladesh, digital ID card engine, and offline PWA capability.</li>
+        <li>🤖 <b>Autonomous AI Systems:</b> Creator of <a href="https://github.com/Jubayer-AI-Studio/Jubayer-Jarvis-AI-Automation">Jubayer AI</a> — a 100% hands-free personal desktop assistant with biometric voiceprint verification and real-time vision controls.</li>
+        <li>⚡ <b>High-Scale Automation:</b> Designing resilient bot architectures with anti-detection heuristics, headless automation, and automated video generation engines.</li>
+        <li>📬 <b>Direct Email:</b> <a href="mailto:monisharani333022@gmail.com">monisharani333022@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -79,13 +90,13 @@ I am a **Software Engineer & AI Systems Architect** based in **Dhaka, Bangladesh
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📖 <a href="https://github.com/monisharani333022-eng/NoorHub-Madrasa-Management-SaaS">NoorHub (নূরহাব)</a></h3>
+      <h3 align="center">📖 <a href="https://github.com/Jubayer-AI-Studio/NoorHub-Madrasa-Management-SaaS">NoorHub (নূরহাব)</a></h3>
       <p align="center"><b>Universal Islamic Education Management & Cloud SaaS</b></p>
       <p>A production-ready bilingual (Bangla ⇄ English) cloud platform featuring 29 completed routes, Leaflet GIS division/district map of Bangladesh, digital student ID card generator with dynamic QR/Barcodes, and Noor AI speech assistant.</p>
       <p><b>Stack:</b> <code>Next.js 15</code> • <code>React 19</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>PWA</code> • <code>Drizzle ORM</code> • <code>Gemini AI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/monisharani333022-eng/Jubayer-Jarvis-AI-Automation">Jubayer AI (Desktop Jarvis)</a></h3>
+      <h3 align="center">🤖 <a href="https://github.com/Jubayer-AI-Studio/Jubayer-Jarvis-AI-Automation">Jubayer AI (Desktop Jarvis)</a></h3>
       <p align="center"><b>100% Hands-Free Voice & Gesture OS Assistant</b></p>
       <p>A personal Iron-Man style Desktop AI with an Arc Reactor Orb floating HUD, biometric voice authentication (owner frequency verification), QR-code smartphone WiFi remote, and full hands-free Windows automation.</p>
       <p><b>Stack:</b> <code>Python</code> • <code>OpenCV</code> • <code>SpeechRecognition</code> • <code>MediaPipe</code> • <code>CustomTkinter</code></p>
@@ -93,13 +104,13 @@ I am a **Software Engineer & AI Systems Architect** based in **Dhaka, Bangladesh
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚔️ <a href="https://github.com/monisharani333022-eng/Shafin-Blade-Fighter-Game">Shafin Blade Fighter 3D</a></h3>
+      <h3 align="center">⚔️ <a href="https://github.com/Jubayer-AI-Studio/Shafin-Blade-Fighter-Game">Shafin Blade Fighter 3D</a></h3>
       <p align="center"><b>Cross-Platform Arcade Combat Web Game</b></p>
       <p>An action-packed web fighting combat game featuring combo combat mechanics, audio feedback, customizable anime fighters, full offline PWA capability, and multi-resolution mobile/desktop touch controls.</p>
       <p><b>Stack:</b> <code>HTML5 Canvas</code> • <code>JavaScript (ES6+)</code> • <code>Web Audio API</code> • <code>PWA</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ <a href="https://github.com/monisharani333022-eng/AI__automation">Social Media & Reels AI Automator</a></h3>
+      <h3 align="center">⚡ <a href="https://github.com/Jubayer-AI-Studio/AI__automation">Social Media & Reels AI Automator</a></h3>
       <p align="center"><b>24/7 Automated Content & Interaction Pipeline</b></p>
       <p>Master desktop and cloud automation suite featuring 24/7 Telegram AI assistant workers, Facebook Video & Reels AI auto-commenter with randomized anti-bot delays, and batch short-video generators.</p>
       <p><b>Stack:</b> <code>Python</code> • <code>Selenium</code> • <code>Telegram Bot API</code> • <code>Gemini AI</code> • <code>FFmpeg</code></p>
@@ -107,13 +118,13 @@ I am a **Software Engineer & AI Systems Architect** based in **Dhaka, Bangladesh
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎙️ <a href="https://github.com/monisharani333022-eng/Shono-AI-Bangladeshi-Jarvis">Shono AI (শোনো এআই)</a></h3>
+      <h3 align="center">🎙️ <a href="https://github.com/Jubayer-AI-Studio/Shono-AI-Bangladeshi-Jarvis">Shono AI (শোনো এআই)</a></h3>
       <p align="center"><b>Bangladeshi Dialect-Aware Voice AI System</b></p>
       <p>Architectural blueprint and futuristic interactive HUD web interface designed for native regional Bangladeshi dialects (Sylheti, Chatgaya, Dhakaiya, etc.) and speech-to-intent pipelines.</p>
       <p><b>Stack:</b> <code>JavaScript</code> • <code>Web Speech API</code> • <code>Tailwind CSS</code> • <code>Cyberpunk HUD</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📺 <a href="https://github.com/monisharani333022-eng/YouTube-Automation-Bot">YouTube Automation Engine</a></h3>
+      <h3 align="center">📺 <a href="https://github.com/Jubayer-AI-Studio/YouTube-Automation-Bot">YouTube Automation Engine</a></h3>
       <p align="center"><b>Autonomous YouTube Publishing & Content Pipeline</b></p>
       <p>End-to-end Python engine automating thumbnail generation, metadata formatting, scheduling, and direct video uploads via YouTube Data API v3.</p>
       <p><b>Stack:</b> <code>Python</code> • <code>YouTube Data API v3</code> • <code>Pillow (PIL)</code> • <code>Google OAuth</code></p>
@@ -126,19 +137,19 @@ I am a **Software Engineer & AI Systems Architect** based in **Dhaka, Bangladesh
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/monisharani333022-eng">
-    <img src="https://github-readme-stats.vercel.app/api?username=monisharani333022-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
+  <a href="https://github.com/Jubayer-AI-Studio">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jubayer-AI-Studio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/monisharani333022-eng">
-    <img src="https://streak-stats.demolab.com?user=monisharani333022-eng&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&sideLabels=94a3b8&dates=94a3b8" height="165" alt="GitHub Streak" />
+  <a href="https://github.com/Jubayer-AI-Studio">
+    <img src="https://streak-stats.demolab.com?user=Jubayer-AI-Studio&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&sideLabels=94a3b8&dates=94a3b8" height="165" alt="GitHub Streak" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/monisharani333022-eng">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monisharani333022-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
+  <a href="https://github.com/Jubayer-AI-Studio">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer-AI-Studio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
   </a>
 </div>
 
@@ -150,7 +161,7 @@ I am a **Software Engineer & AI Systems Architect** based in **Dhaka, Bangladesh
   <a href="mailto:monisharani333022@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/monisharani333022-eng">
+  <a href="https://github.com/Jubayer-AI-Studio">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.facebook.com">
